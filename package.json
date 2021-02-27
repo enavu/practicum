@@ -1,0 +1,26 @@
+{
+  "name": "practicum",
+  "version": "1.0.0",
+  "description": "data science",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enavu/practicum.git"
+  },
+  "keywords": [
+    "data",
+    "science",
+    "regression",
+    "time",
+    "series"
+  ],
+  "author": "enavuio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enavu/practicum/issues"
+  },
+  "homepage": "https://github.com/enavu/practicum#readme"
+}
